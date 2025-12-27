@@ -1,0 +1,5 @@
+{
+  "name": "RecallFlow - 英语词组记忆",
+  "description": "基于无限滚动队列与间隔重复算法的智能英语词组记忆软件。",
+  "requestFramePermissions": []
+}
